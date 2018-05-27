@@ -1,4 +1,4 @@
-# CoreText-
+# CoreText [我的简书](https://www.jianshu.com/u/2db9a9d9181c)
 学会使用CoreText会帮助提升一些性能上的问题
 ----------
 ## CoreText 一些扫盲的知识点
